@@ -1,4 +1,4 @@
-package java5;          
+          
 public class StudentCourseApp {
 
     // Inner class Course
